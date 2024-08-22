@@ -1,2 +1,2 @@
-# Practice
-Practice creating simple websites using HTML, CSS and Javascript.
+# Drum Kit
+Simple website practice using jQuery
